@@ -1,0 +1,16 @@
+[DerGerät_CDLaufwerk]
+host=192.168.0.24
+scheme=smb
+share=f
+
+[bilder on 192.168.0.24]
+host=192.168.0.24
+scheme=smb
+share=bilder
+autoconnect=1
+
+[video on 192.168.0.24]
+host=192.168.0.24
+scheme=smb
+share=video
+autoconnect=1
