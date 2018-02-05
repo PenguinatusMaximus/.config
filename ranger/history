@@ -9,10 +9,13 @@ mkdir polar_downloader
  
 zh
 rm
-open_with 
 open_withq 
-
 open_with sxiv
-open_with libreoffice
 find 
 open_with 
+open_with libreoffice
+open_with q
+rename Bildschirmfoto vom 2016-01-26 20-45-07.png
+open_with wordgrinder
+
+open_with 
